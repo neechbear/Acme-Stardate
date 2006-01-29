@@ -1,0 +1,14 @@
+TODO
+README
+Changes
+MANIFEST
+lib/Acme/Stardate.pm
+t/00compile.t
+t/02pod_coverage.t
+t/01pod.t
+t/03basic.t
+INSTALL
+Makefile.PL
+LICENSE
+NOTICE
+META.yml
